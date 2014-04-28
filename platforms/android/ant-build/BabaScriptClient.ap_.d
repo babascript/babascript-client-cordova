@@ -1,0 +1,25 @@
+/Users/takumi/dev/mitoh/mobile/platforms/android/ant-build/BabaScriptClient.ap_ \
+ : /Users/takumi/dev/mitoh/mobile/platforms/android/res/drawable/icon.png \
+/Users/takumi/dev/mitoh/mobile/platforms/android/res/drawable-hdpi/icon.png \
+/Users/takumi/dev/mitoh/mobile/platforms/android/res/drawable-ldpi/icon.png \
+/Users/takumi/dev/mitoh/mobile/platforms/android/res/drawable-mdpi/icon.png \
+/Users/takumi/dev/mitoh/mobile/platforms/android/res/drawable-xhdpi/icon.png \
+/Users/takumi/dev/mitoh/mobile/platforms/android/res/values/strings.xml \
+/Users/takumi/dev/mitoh/mobile/platforms/android/res/xml/config.xml \
+/Users/takumi/dev/mitoh/mobile/platforms/android/ant-build/res/drawable/icon.png \
+/Users/takumi/dev/mitoh/mobile/platforms/android/ant-build/res/drawable-hdpi/icon.png \
+/Users/takumi/dev/mitoh/mobile/platforms/android/ant-build/res/drawable-ldpi/icon.png \
+/Users/takumi/dev/mitoh/mobile/platforms/android/ant-build/res/drawable-mdpi/icon.png \
+/Users/takumi/dev/mitoh/mobile/platforms/android/ant-build/res/drawable-xhdpi/icon.png \
+/Users/takumi/dev/mitoh/mobile/platforms/android/assets/_where-is-www.txt \
+/Users/takumi/dev/mitoh/mobile/platforms/android/assets/www \
+/Users/takumi/dev/mitoh/mobile/platforms/android/assets/www/cordova.js \
+/Users/takumi/dev/mitoh/mobile/platforms/android/assets/www/cordova_plugins.js \
+/Users/takumi/dev/mitoh/mobile/platforms/android/assets/www/css \
+/Users/takumi/dev/mitoh/mobile/platforms/android/assets/www/img \
+/Users/takumi/dev/mitoh/mobile/platforms/android/assets/www/index.html \
+/Users/takumi/dev/mitoh/mobile/platforms/android/assets/www/js \
+/Users/takumi/dev/mitoh/mobile/platforms/android/assets/www/css/index.css \
+/Users/takumi/dev/mitoh/mobile/platforms/android/assets/www/img/logo.png \
+/Users/takumi/dev/mitoh/mobile/platforms/android/assets/www/js/index.js \
+/Users/takumi/dev/mitoh/mobile/platforms/android/ant-build/AndroidManifest.xml \

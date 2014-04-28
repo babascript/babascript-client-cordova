@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:6
+-keep class org.babascript.client.BabaScriptClient { <init>(...); }
+
